@@ -1,3 +1,5 @@
+// When you first clone this, if you want to run it you have to first run `npm i` and also create a `secret.js` file with your `apiKey`
+
 const fetch = require('node-fetch');
 
 const apiKey = require('./secrets');
